@@ -1,0 +1,11 @@
+schema: '2.0'
+stages:
+  main:
+    cmd:
+    - python -m src.script
+    deps:
+    - path: src
+      hash: md5
+      md5: 090b3b7d4906ddb9915744ebe09d85e1.dir
+      size: 770
+      nfiles: 6
