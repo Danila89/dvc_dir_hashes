@@ -1,0 +1,7 @@
+stages:
+  main:
+    cmd:
+      - python -m src.script
+    deps:
+      - src
+    outs: []
